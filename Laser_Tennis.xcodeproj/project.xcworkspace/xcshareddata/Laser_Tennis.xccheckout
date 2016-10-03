@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>33FF20B2-AF7F-4467-8FA4-21035D7CB02E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Laser_Tennis</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9C714BC1-A267-4AF6-B316-222010A60051</key>
+		<string>https://github.com/unmake/Laser_Tennis.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Laser_Tennis.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9C714BC1-A267-4AF6-B316-222010A60051</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/unmake/Laser_Tennis.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9C714BC1-A267-4AF6-B316-222010A60051</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9C714BC1-A267-4AF6-B316-222010A60051</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Laser_Tennis</string>
+		</dict>
+	</array>
+</dict>
+</plist>

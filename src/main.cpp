@@ -23,5 +23,4 @@ Make method for correcting scaling
  - look into correcting scaling from off angles
 Make better ball path guidance with movement in collisions
 Better ball collision detection. Make check for bounding box
-Clean code + test area and test method
 */
